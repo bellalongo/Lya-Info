@@ -1,4 +1,4 @@
-# Lya-Info-Grabber
+# Lya-Info-Grabbing
 Calculating the necessary values needed for an accurate Lyman alpha reconstruction
 
 
