@@ -1,4 +1,4 @@
-# Star-Data-Calculation
+# Lya-Info-Calculator
 Calculating the necessary values needed for an accurate Lyman alpha reconstruction
 
 
