@@ -3,7 +3,7 @@ Calculating the necessary values needed for an accurate Lyman alpha reconstructi
 
 
 ### Data Needed
-Only a fits file is needed to perform the calculations
+- fits file
 
 
 ### Data Calculated
