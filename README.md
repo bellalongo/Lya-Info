@@ -1,9 +1,9 @@
-# Star-Data-Calculation
+# Lya-Info
 Calculating the necessary values needed for an accurate Lyman alpha reconstruction
 
 
 ### Data Needed
-Only a fits file is needed to perform the calculations
+- fits file
 
 
 ### Data Calculated
