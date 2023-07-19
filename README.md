@@ -1,8 +1,10 @@
 # Star-Data-Calculation
 Calculating the necessary values needed for an accurate Lyman alpha reconstruction
 
+
 ### Data Needed
 Only a fits file is needed to perform the calculations
+
 
 ### Data Calculated
 - radial velocity
